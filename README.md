@@ -12,7 +12,7 @@ CyberSecurity
 | - | ![burpsuite-ba 🌯🥼](https://github.com/miozilla/burpsuite-ba) | Burp Suite | Browser Attack, Firefox ESR, OWASP Mutillidae II, XSS |
 | - | ![digdnssec 🧑‍🎄](https://github.com/miozilla/digdnssec) | DNS Security | dig, dns-sec, spf, iana, verisign, mxtoolbox | 
 | - | ![dvwasqli 💫💉](https://github.com/miozilla/dvwasqli) | DVWA | SQL Injection | 
-| - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB |
+| - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB, Network Security |
 | - | ![fsrm 🗃️](https://github.com/miozilla/fsrm) | File Server Resource Manager  | Microsoft Server | 
 | - | ![netsec-cloud-armor 🛡️⚡](https://github.com/miozilla/netsec-cloud-armor) | Network Security | Cloud Armor, Load Balance  | 
 | - | ![sast 🍏🍹](https://github.com/miozilla/sast) | Static Application Security Testing | nodejsscan, SCA, OWASP, Juice Shop  |
