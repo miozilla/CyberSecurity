@@ -7,6 +7,7 @@ CyberSecurity
 
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
+| - | ![awsbaudit 🧊📝🌥️](https://github.com/miozilla/awsbaudit) | AWS Environment Audit | IAM, Policy Simulator, Security Groups,CloudTrail, CloudWatch, EC2, VPC |
 | - | ![awsvpc 🌦️](https://github.com/miozilla/awsvpc) | Virtual Private Cloud | VPC, Subnet, Gateway, Route Table | 
 | - | ![azdrcap 📼](https://github.com/miozilla/azdrcap)  | Azure Disaster Recovery  | Backup, Replication | 
 | - | ![burpsuite-ba 🌯🥼](https://github.com/miozilla/burpsuite-ba) | Burp Suite | Browser Attack, Firefox ESR, OWASP Mutillidae II, XSS |
