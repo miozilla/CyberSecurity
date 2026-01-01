@@ -25,6 +25,8 @@ CyberSecurity
 | - | ![siem-ossim 👽](https://github.com/miozilla/siem-ossim)  | Security Information Event Management |  SIEM, OSSIM Alienvault | 
 | - | ![wafkali 🐉](https://github.com/miozilla/wafkali) | Web Application Firewall | WAF, Kali, Nikto, OWASP | 
 | - | ![wiresharka 🛜🦈](https://github.com/miozilla/wiresharka) | Analyze Network Traffic Packet | Wireshark, Security Analyst |
+| - | ![xsoarpalo 🏦🔶🔐](https://github.com/miozilla/xsoarpalo) | Phishing Insident Response Automation | Cortex XSOAR, Palo Alto Networks, SOAR |
 | - | :-: | :-: | :-: |
+
 
 
