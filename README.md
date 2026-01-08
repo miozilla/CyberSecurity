@@ -19,6 +19,7 @@ CyberSecurity
 | - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB, Network Security |
 | - | ![fsrm 🗃️](https://github.com/miozilla/fsrm) | File Server Resource Manager  | Microsoft Server | 
 | - | ![gsccgs 💂📢📉](https://github.com/miozilla/gsccgs) | Security Command Center | Risk, Threats, Vulnerabilities, Compliance, Assets, Findings, Sources, Posture Management | 
+| - | ![hardengkec ☸️🪨🧭](https://github.com/miozilla/hardengkec) | Hardening GKE Cluster | Kubernetes, PodSecurityPolicy, DevSecOps, SSRF, PSA, RCE | 
 | - | ![iamaws 🧑‍💼🔏🏢](https://github.com/miozilla/iamaws) | Identity & Access Management | IAM, Users, Groups, Policies, AWS |
 | - | ![netsec-cloud-armor 🛡️⚡](https://github.com/miozilla/netsec-cloud-armor) | Network Security | Cloud Armor, Load Balance  | 
 | - | ![sast 🍏🍹](https://github.com/miozilla/sast) | Static Application Security Testing | nodejsscan, SCA, OWASP, Juice Shop  |
