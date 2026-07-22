@@ -15,6 +15,7 @@ CyberSecurity
 | - | ![digdnssec 🧑‍🎄](https://github.com/miozilla/digdnssec) | DNS Security | dig, dns-sec, spf, iana, verisign, mxtoolbox | 
 | - | ![dithreatscc 🕵️‍♀️🦠👮‍♀️](https://github.com/miozilla/dithreatscc) | Detect & Investigate Threats | Event Threats Detection, SCC |
 | - | ![dlpapi 🦹👮💸](https://github.com/miozilla/dlpapi) | Cloud Data Loss Prevention | DLP API, Sensitive PII Data Protection, Redaction |
+| - | ![dnsgeopol 🌏👮‍♂️](https://github.com/miozilla/dnsgeopol) | Traffic Steering Geolocation Routing Policy | Cloud DNS, GCloud, Compute VM Instance, VPC, API, Firewall, Network, geo.example.com recordset | 
 | - | ![dvwasqli 💫💉](https://github.com/miozilla/dvwasqli) | DVWA | SQL Injection | 
 | - | ![erremp 🔬🔍](https://github.com/miozilla/erremp) | GKE Workload Issues Remediation | Observability, Error Reporting, Logging, Cloud Assist | 
 | - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB, Network Security |
