@@ -16,6 +16,7 @@ CyberSecurity
 | - | ![dithreatscc 🕵️‍♀️🦠👮‍♀️](https://github.com/miozilla/dithreatscc) | Detect & Investigate Threats | Event Threats Detection, SCC |
 | - | ![dlpapi 🦹👮💸](https://github.com/miozilla/dlpapi) | Cloud Data Loss Prevention | DLP API, Sensitive PII Data Protection, Redaction |
 | - | ![dvwasqli 💫💉](https://github.com/miozilla/dvwasqli) | DVWA | SQL Injection | 
+| - | ![erremp 🔬🔍](https://github.com/miozilla/erremp) | GKE Workload Issues Remediation | Observability, Error Reporting, Logging, Cloud Assist | 
 | - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB, Network Security |
 | - | ![fsrm 🗃️](https://github.com/miozilla/fsrm) | File Server Resource Manager  | Microsoft Server | 
 | - | ![gsccgs 💂📢📉](https://github.com/miozilla/gsccgs) | Security Command Center | Risk, Threats, Vulnerabilities, Compliance, Assets, Findings, Sources, Posture Management | 
@@ -29,6 +30,5 @@ CyberSecurity
 | - | ![wiresharka 🛜🦈](https://github.com/miozilla/wiresharka) | Analyze Network Traffic Packet | Wireshark, Security Analyst |
 | - | ![xsoarpalo 🏦🔶🔐](https://github.com/miozilla/xsoarpalo) | Phishing Insident Response Automation | Cortex XSOAR, Palo Alto Networks, SOAR |
 | - | :-: | :-: | :-: |
-
 
 
