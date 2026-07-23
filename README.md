@@ -25,7 +25,7 @@ CyberSecurity
 | - | ![httpslb 🔐🌍📑](https://github.com/miozilla/httpslb) | Global HTTPS Content-Based Load Balancer with Terraform | SSL, TLS, Certificate, Backend, FrontEnd, Geographical Region, Network | 
 | - | ![iamaws 🧑‍💼🔏🏢](https://github.com/miozilla/iamaws) | Identity & Access Management | IAM, Users, Groups, Policies, AWS |
 | - | ![netsec-cloud-armor 🛡️⚡](https://github.com/miozilla/netsec-cloud-armor) | Network Security | Cloud Armor, Load Balance  | 
-| - | ![ratelimitarmor 🌧️🔀⏳](https://github.com/miozilla/ratelimitarmor) | Traffic Rate Limit | Stress Test, Cloud Armor, Load Balance, DDOS, Flood Attack |
+| - | ![ratelimitarmor 🌧️🔀⏳](https://github.com/miozilla/ratelimitarmor) | Traffic Rate Limit Stress Test | Cloud Armor, Load Balance, DDOS, Flood Attack, Network Security |
 | - | ![sast 🍏🍹](https://github.com/miozilla/sast) | Static Application Security Testing | nodejsscan, SCA, OWASP, Juice Shop  |
 | - | ![siem-ossim 👽](https://github.com/miozilla/siem-ossim)  | Security Information Event Management |  SIEM, OSSIM Alienvault | 
 | - | ![wafkali 🐉](https://github.com/miozilla/wafkali) | Web Application Firewall | WAF, Kali, Nikto, OWASP | 
