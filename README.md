@@ -12,6 +12,7 @@ CyberSecurity
 | - | ![azdrcap 📼](https://github.com/miozilla/azdrcap)  | Azure Disaster Recovery  | Backup, Replication | 
 | - | ![burpsuite-ba 🌯🥼](https://github.com/miozilla/burpsuite-ba) | Burp Suite | Browser Attack, Firefox ESR, OWASP Mutillidae II, XSS |
 | - | ![canstd 🕸️🛡️⛈️](https://github.com/miozilla/canstd) | NetSec Threat Detection | Cloud Armor, XSS, SQLi |
+| - | ![compolscore 👮‍♀️🖼️](https://github.com/miozilla/compolscore) | Cymbal's AI-augmented Brand Guardian | Compliance Policies with Image Scoring Agent, Agent Development Kit, Imagen |
 | - | ![digdnssec 🧑‍🎄](https://github.com/miozilla/digdnssec) | DNS Security | dig, dns-sec, spf, iana, verisign, mxtoolbox | 
 | - | ![dithreatscc 🕵️‍♀️🦠👮‍♀️](https://github.com/miozilla/dithreatscc) | Detect & Investigate Threats | Event Threats Detection, SCC |
 | - | ![dlpapi 🦹👮💸](https://github.com/miozilla/dlpapi) | Cloud Data Loss Prevention | DLP API, Sensitive PII Data Protection, Redaction |
@@ -32,4 +33,5 @@ CyberSecurity
 | - | ![wiresharka 🛜🦈](https://github.com/miozilla/wiresharka) | Analyze Network Traffic Packet | Wireshark, Security Analyst |
 | - | ![xsoarpalo 🏦🔶🔐](https://github.com/miozilla/xsoarpalo) | Phishing Insident Response Automation | Cortex XSOAR, Palo Alto Networks, SOAR |
 | - | :-: | :-: | :-: |
+
 
