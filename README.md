@@ -32,6 +32,7 @@ CyberSecurity
 | - | ![wafkali 🐉](https://github.com/miozilla/wafkali) | Web Application Firewall | WAF, Kali, Nikto, OWASP | 
 | - | ![wiresharka 🛜🦈](https://github.com/miozilla/wiresharka) | Analyze Network Traffic Packet | Wireshark, Security Analyst |
 | - | ![xsoarpalo 🏦🔶🔐](https://github.com/miozilla/xsoarpalo) | Phishing Insident Response Automation | Cortex XSOAR, Palo Alto Networks, SOAR |
+| - | ![zerotrustiap 😎🕵️‍♀️](https://github.com/miozilla/zerotrustiap)| Zero-Trust | Identity Aware Proxy (IAP), App Engine, Securing Cloud Applications | 
 | - | :-: | :-: | :-: |
 
 
