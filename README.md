@@ -17,7 +17,7 @@ CyberSecurity
 | - | ![dithreatscc 🕵️‍♀️🦠👮‍♀️](https://github.com/miozilla/dithreatscc) | Detect & Investigate Threats | Event Threats Detection, SCC |
 | - | ![dlpapi 🦹👮💸](https://github.com/miozilla/dlpapi) | Cloud Data Loss Prevention | DLP API, Sensitive PII Data Protection, Redaction |
 | - | ![dnsgeopol 🌏👮‍♂️](https://github.com/miozilla/dnsgeopol) | Traffic Steering Geolocation Routing Policy | Cloud DNS, GCloud, Compute VM Instance, VPC, API, Firewall, Network, geo.example.com recordset | 
-| - | ![drgcp ☔🚒](https://github.com/miozilla/drgcp) | Business Continuity (BD) & Disaster Recovery (DR) | Google Backup, DR Service, VMs, Restore, RTP, RPO, MTTR, MTBF, Failover, Swing Test, Cold Site |
+| - | ![drgcp ☔🚒](https://github.com/miozilla/drgcp) | Business Continuity (BC) & Disaster Recovery (DR) | Google Backup, DR Service, VMs, Restore, RTP, RPO, MTTR, MTBF, Failover, Swing Test, Cold Site |
 | - | ![dvwasqli 💫💉](https://github.com/miozilla/dvwasqli) | DVWA | SQL Injection | 
 | - | ![erremp 🔬🔍](https://github.com/miozilla/erremp) | GKE Workload Issues Remediation | Observability, Error Reporting, Logging, Cloud Assist | 
 | - | ![fortigate-ngfw 🧱🔥🥅](https://github.com/miozilla/fortigate-ngfw) | Next-Generation Firewall | Fortigate, ngfw, Fortinet, ELB, Network Security |
